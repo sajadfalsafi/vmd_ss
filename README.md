@@ -24,4 +24,5 @@ Copy the secondary-structure.tcl to the VMD root directory
 In the VMD Main window, choose Extensions –> TK Console and type:
 
 source secondary-structure.tcl
+
 structure_tk_cb
